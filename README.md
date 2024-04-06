@@ -1,4 +1,4 @@
-# Nueral Network/ Deep Learning Notes
+# Nueral Network / Deep Learning Notes
 
 ## In this document you will find
 
